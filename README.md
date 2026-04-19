@@ -1,5 +1,6 @@
 - 👋 Hi, I’m ChinmaiJyothy
-- 🌱 I’m currently a Computer Science student
+- 🌱 I’m currently a working professional now
+- 😊 Will try to be consistant with what i upskill, here
 - 📫 How to reach me - chinmaijyothijaladanki@gmail.com
 
 <!---
